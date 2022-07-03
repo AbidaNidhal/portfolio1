@@ -1,0 +1,42 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n - Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/mayankagarwal09/dev-portfolio"},
+                {"text": "Live","href": "https://www.nidhalabida.xyz"}
+            ],
+            "tags" : ["React","Portfolio","JavaScript"]
+        },
+        {
+            "image" : "images/projects/IRIS-Data-Mining.png",
+            "title": "Weka3 IRIS Data Mining Model",
+            "bodyText": "- Built a Data Mining Model from Scratch",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Weka3-IRIS-Data-Mining-Mode"}
+            ],
+            "tags" : ["Weka3","Data Mining"]
+        },
+        {
+            "image" : "images/projects/fps.png",
+            "title": "Duck Hunt like game",
+            "bodyText": "- Part of a school project",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Jeu-De-Tir"}
+            ],
+            "tags" : ["Java","Game"]
+        },
+        {
+            "image" : "images/projects/vr.png",
+            "title": "VR game developement",
+            "bodyText": "- Part of my End of Studies Project\n - Multiplayer VR FPS game\n - Motion Tracking with Perception Neuron",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Jeu-De-Tir"},
+                {"text": "Video","href": ""}
+            ],
+            "tags" : ["Unity","Game","VR","Perception Neuron"]
+        }
+    ]
+}

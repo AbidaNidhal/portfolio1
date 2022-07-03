@@ -1,0 +1,43 @@
+{"skills": [{"title": "Languages","items" : [
+{"icon": "images/skills/python.png","title": "Python"},
+{"icon": "images/skills/java.png","title": "Java"},
+{"icon": "images/skills/sharp.png","title": "C#"},
+{"icon": "images/skills/R.png","title": "R"}]},
+{
+    "title": "Data Science Tools",
+    "items" : [
+        {"icon": "images/skills/excel.png","title": "Excel"},
+        {"icon": "images/skills/tableau.png","title": "Tableau"},
+        {"icon": "images/skills/PowerBI.png","title": "Power BI"},
+        {"icon": "images/skills/anaconda.png","title": "Anaconda"},
+        {"icon": "images/skills/jupyter.png","title": "Jupyter"},
+        {"icon": "images/skills/pandas.png","title": "Pandas"},
+        {"icon": "images/skills/numpy.png","title": "Numpy"},
+        {"icon": "images/skills/sk.png","title": "Sklearn"},
+        {"icon": "images/skills/tf.png","title": "Tensorflow"},
+        {"icon": "images/skills/torch.png","title": "Pytorch"},
+        {"icon": "images/skills/keras.png","title": "Keras"},
+        {"icon": "images/skills/opencv.png","title": "OpenCV"},
+        {"icon": "images/skills/mp.png","title": "MediaPipe"}
+]},
+{"title": "DATABASE","items" : [{"icon": "images/skills/mysql.png","title": "MySQL"}]},
+{
+    "title": "Web & Mobile Dev",
+    "items" : [
+        {"icon": "images/skills/vue.png","title": "Vue"},
+        {"icon": "images/skills/Bootstrap.png","title": "Bootstrap"},
+        {"icon": "images/skills/firebase.png","title": "Firebase"},
+        {"icon": "images/skills/three.png","title": "Three.js"},
+        {"icon": "images/skills/flutter.png","title": "Flutter"}
+]},
+{"title": "Game & VR Dev","items" : [{"icon": "images/skills/unity.png","title": "Unity"}]},
+{
+            "title" : "IDE, Tools & Platforms",
+            "items": [
+                {"icon": "images/skills/VS.png","title": "VSCodium"},
+                {"icon": "images/skills/android-studio.png","title": "Android Studio"},
+                {"icon": "images/skills/git.png","title": "Git"},
+                {"icon": "images/skills/slack.png","title": "Slack"},
+                {"icon": "images/skills/jira.png","title": "Jira"},
+                {"icon": "images/skills/docker.png","title": "Docker"}
+]}]}

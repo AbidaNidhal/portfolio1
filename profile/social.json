@@ -1,0 +1,10 @@
+{
+    "social": [
+        {"network" : "linkedin","href": "https://www.linkedin.com/in/abida-nidhal"},
+        {"network" : "github","href": "https://www.github.com/AbidaNidhal"},
+        {"network" : "email","href": "mailto:mednidhal.abida@gmail.com"},
+        {"network" : "discord","href": "https://www.discord.com/users/senna#1928"},
+        {"network" : "twitter","href": "https://www.twitter.com/AbidaMohamedNi1"},
+        {"network" : "facebook","href": "https://www.facebook.com/nidhal.abida.39/"}
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "title": "VR game developement",
+            "subtitle": "HyperSpace",
+            "workType": "End of Studies Project",
+            "workDescription": ["developed a FPS VR game and integrated a computer vision based motion tracking solution"],
+            "dateText": "Feb 2022 - May 2022"
+        },
+        {
+            "title": "Mobile App Developer",
+            "subtitle": "Make IT Happen",
+            "workType": "Summer Internship",
+            "workDescription": ["developed a prescription reminder mobile app with Flutter"],
+            "dateText": "Summer 2021"
+        }
+    ]
+}

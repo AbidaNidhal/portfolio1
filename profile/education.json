@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "2019 - 2022",
+            "cardTitle": "Computer Science Engineer",
+            "cardSubtitle":"ENSI (National School of Computer Science)",
+            "cardDetailedText": "Specialized in Data Science & Computer Vision"
+        },
+        {
+            "title": "2017 - 2019",
+            "cardTitle": "Undergraduate Degree",
+            "cardSubtitle":"IPEIT (Tunis Preparatory Engineering Institute)",
+            "cardDetailedText": "(Math - Physics)"
+        },
+        {
+            "title": "2017",
+            "cardTitle": "Math Baccalaureate Degree",
+            "cardSubtitle":"LPBT (Bourguiba Pioneer School Tunis)",
+            "cardDetailedText": "Excellent Average Grade"
+        }
+    ]
+}
